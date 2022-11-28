@@ -3,24 +3,24 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "https:\\\\www.oszk.hu",
-    "text": "Digitális Bölcsészeti Központ"
+    "file": "KJ",
+    "link": "",
+    "text": "Dani"
   },
   "text": {
-    "more": "”Ferenc József a hadsereget, Wekerle Sándor a költségvetést bizonyára komolyan vette; de senki semmit olyan komolyan nem vehetett, mint Kiss József vette a kissjózsefi verset; ezért élt, ennek élt s ebben élte az életét. Verseit úgy írta, hogy egy sor vagy egy szó jutott belőlük először eszébe s valami bizonytalan kóválygás, amit nem tudott volna szóba foglalni. A papirosra mindenesetre lejegyzett: néha szavakat, néha sorokat, egy-egy rímpárt, gyakran borzalmas közhelyeket számla- vagy könyvkivonat-nyelven. Azután nekiült s az írást elkezdte olvasni. Olvasni, dünnyögni, kántálni: kilesni, hogy hangzásuk vág-e a benne zsongó kimondhatatlansághoz s így kántált ki magából szó után szót, sor után sort, mondat után mondatot, strófa után strófát, órákon, napokon, heteken át; a szavak mind frissebbek lettek, a mondatok mind fordulatosabbak, a rímek mind csattanóbbak, a sorok mind lüktetőbbek; így épült a kissjózsefi vers: megvolt az eleje s a vége, de a dereka még hiányzott, néha megakadt egy sornál s hónapokig nem ment tovább, néha benne maradt egy félsor vagy egy rím, míg egyszer csak a hamis szó helyett felbukkant az igazi, a süket rím helyett felcsendült a zengő s a végén megvolt a vers.”\n (Ignotus Kiss Józsefről)",
-    "intro": "Kiss József – A Hét című folyóirat alapítója és szerkesztője – levelezése eddig szinte feltáratlan irodalmi közegbe enged betekintést, elénk tárva a Nyugat folyóirat előtt formálódó modern magyar irodalom meghatározó egyéniségeit, irányvonalait.\nEz a gyűjtemény Kiss József levelezésének a PIM Kézirattárában őrzött részét tartalmazza.\n",
-    "title": "Kiss József-levelezése"
+    "more": "",
+    "intro": "",
+    "title": ""
   },
   "legend": {
-    "edgeLabel": "Kapcsolat",
-    "colorLabel": "Kapcsolat jellege",
-    "nodeLabel": "Levélíró"
+    "edgeLabel": "Levélváltások",
+    "colorLabel": "",
+    "nodeLabel": "Levelezőpartnerek"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": "kapcsolat jellege",
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -28,11 +28,11 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "straight",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
+      "defaultLabelColor": "#FFFFFF",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 8,
+      "minEdgeSize": 0.7,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 30
     },
     "mouseProperties": {
       "maxRatio": 20,
