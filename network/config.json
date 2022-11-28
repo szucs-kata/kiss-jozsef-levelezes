@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "KJ",
+    "file": "",
     "link": "",
-    "text": "Dani"
+    "text": "Kiss József kapcsoalti háló"
   },
   "text": {
     "more": "",
@@ -14,12 +14,12 @@
   },
   "legend": {
     "edgeLabel": "Levélváltások",
-    "colorLabel": "",
-    "nodeLabel": "Levelezőpartnerek"
+    "colorLabel": "Kapcsolat típusa",
+    "nodeLabel": "Levélíró"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "kapcsolat jellege",
+    "groupSelectorAttribute": "Kapcsolat jellege",
     "hoverBehavior": "default"
   },
   "informationPanel": {
