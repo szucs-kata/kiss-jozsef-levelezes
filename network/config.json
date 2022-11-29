@@ -8,14 +8,14 @@
     "text": "Kiss József kapcsoalti háló"
   },
   "text": {
-    "more": "Kiss József levelezése eddig szinte feltáratlan irodalmi közegbe enged betekintést, elénk tárva a Nyugat folyóirat előtt formálódó modern magyar irodalom meghatározó egyéniségeit, irányvonalait. A gyűjtemény egyaránt tartalmaz szakmai és személyes levelezéseket, így Kiss József magánéletére is rálátást ad a vizualizáció. A levelek szövege folyamatosan válik olvashatóvá a https://dhupla.hu/collection/kiss-jozsef-levelezes oldalon.",
-    "intro": "Kiss József – A Hét című folyóirat alapítója és szerkesztője – levelezése eddig szinte feltáratlan irodalmi közegbe enged betekintést, elénk tárva a Nyugat folyóirat előtt formálódó modern magyar irodalom meghatározó egyéniségeit, irányvonalait.",
+    "more": "A vizualizáció középpontjában Kiss József áll, körülötte 450 levelezőpartner látható. A csomópontok színe és elsődleges elrendezése a kapcsolat jellegét jelöli (személyes, családi, szakmai, hivatalos és egyéb). A levelezőpartnerek ezen belül kisebb csoportokban helyezkednek el, amelyeket a levélírók neme és típusa határoz meg (nő, férfi, intézmény). Ezt az információt hangsúlyozza az élek színe is, mely által jobban elkülöníthetőek a csoportok. A pontok amellett, hogy színükkel a csoportbatartozásukat reprezentálják, méretükkel azt is megmutatják, hogy milyen intenzíven leveleztek Kiss Józseffel. Az élek óramutató járásával megegyező irányú haladása a Kiss József által küldött leveleket jelöli, az óramutató járásával ellentétes irányban haladó élek pedig azok a levelek, amelyeket Kiss József kapott. Az élek vastagsága azt jelzi, hogy az adott levelezési irány mennyire volt intenzív, továbbá segítségükkel leolvasható, hogy egy-, vagy kétirányú volt-e a levélezés. Minden levélíróhoz, illetve címzetthez tartozi egy adatlap, amely a személy születési és halálozás dátumára, a neméret, vagy típusára és a levelezés nyelvére vonatkozó adatokat tartalmazza. A kapcsolat típusát egyelőre az egyes levelek alapján határoztuk meg. A kapcsolatról mezőbe olyan adatok kerültek, amelyek jelenleg elérhetőek a Petőfi Irodalmi Múzeum katalógusában, ezek az adatok folyamatos revízió, illetve feltöltés  alatt állnak. Az idegen nyelven írt levelek is feldolgozás alatt állnak jelenleg, így a rájuk vonatkozó információk is hiányosak lehetnek. A levelezőpartnerekre szabadszavasan is rákereshetünk a bal oldali információs panelen, illetve a kapcsolat típusa szerint rászűrhetünk az egyes csoportokra is.",
+    "intro": "Kiss József – A Hét című folyóirat alapítója és szerkesztője – levelezése eddig szinte feltáratlan irodalmi közegbe enged betekintést, bemutatva a Nyugat folyóirat előtt formálódó modern magyar irodalom meghatározó egyéniségeit, irányvonalait. A vizualizáció a levelezés alapján mutatja meg Kiss József szakmai és személyes kapcsolatainak hálózatát. A gyűjtemény egyaránt tartalmaz szakmai és személyes levelezéseket, így Kiss József magánéletére is rálátást ad a vizualizáció.",
     "title": "Kiss József kapcsoalti háló"
   },
   "legend": {
     "edgeLabel": "Levélváltások",
-    "colorLabel": "Kapcsolat típusa",
-    "nodeLabel": "A kapcsolat jellege",
+    "colorLabel": "Kapcsolat jellege",
+    "nodeLabel": "A levelezőpartnerek",
     "colorLabel1": "Szakmai",
     "colorLabel2": "Egyéb",
     "colorLabel3": "Hivatalos",
