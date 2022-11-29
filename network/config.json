@@ -19,8 +19,9 @@
     "colorLabel1": "Szakmai",
     "colorLabel2": "Személyes",
     "colorLabel3": "Családi",
-    "colorLabel4": "Egyéb",
-    "colorLabel5": "Kiss József"
+    "colorLabel4": "Hivatalos",
+    "colorLabel5": "Egyéb",
+    "colorLabel6": "Kiss József"
   },
   "features": {
     "search": true,
