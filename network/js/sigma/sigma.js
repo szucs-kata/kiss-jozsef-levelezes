@@ -2,7 +2,15 @@
 var sigma = {
     tools: {},
     classes: {},
-    instances: {}
+    instances: {},
+    graph: data,
+ renderer: {
+  container: document.getElementById('graph-container'),
+  type: 'canvas'
+ },
+ settings: {
+  minArrowSize: 10
+ }
 };
 (function () {
     Array.prototype.some || (Array.prototype.some = function (g, n) {
