@@ -15,7 +15,12 @@
   "legend": {
     "edgeLabel": "Levélváltások",
     "colorLabel": "Kapcsolat típusa",
-    "nodeLabel": "Levélíró"
+    "nodeLabel": "A kapcsolat jellege",
+    "colorLabel1": "Szakmai",
+    "colorLabel2": "Személyes",
+    "colorLabel3": "Családi",
+    "colorLabel4": "Egyéb",
+    "colorLabel5": "Kiss József"
   },
   "features": {
     "search": true,
